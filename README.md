@@ -124,8 +124,8 @@ copie esse endereço e cole na url do seu navegador
 
 ### Back-End :wrench:
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/matheus-costa-dev" width=115><br><sub>Matheus Pereira Costa</sub>](https://github.com/matheus-costa-dev) | [<img loading="lazy" src="https://avatars.githubusercontent.com/hugokoppe" width=115><br><sub>Hugo Koppe</sub>](https://github.com/hugokoppe) | [<img loading="lazy" src="https://avatars.githubusercontent.com/dvsalvaya" width=115><br><sub>Davi salvaya</sub>](https://github.com/dvsalvaya) | [<img loading="lazy" src="https://avatars.githubusercontent.com/Rodrigo-Avieira" width=115><br><sub>Rodrigo Vieira</sub>](https://github.com/Rodrigo-Avieira) | [<img loading="lazy" src="https://avatars.githubusercontent.com/carolinesvazz" width=115><br><sub>Caroline Vazz</sub>](https://github.com/carolinesvazz) |
-| :---: | :---: | :---: | :---: | :---: |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/matheus-costa-dev" width=115><br><sub>Matheus Pereira Costa</sub>](https://github.com/matheus-costa-dev) | [<img loading="lazy" src="https://avatars.githubusercontent.com/rafapcdev" width=115><br><sub>Rafael Costa</sub>](https://github.com/rafapcdev) | [<img loading="lazy" src="https://avatars.githubusercontent.com/hugokoppe" width=115><br><sub>Hugo Koppe</sub>](https://github.com/hugokoppe) | [<img loading="lazy" src="https://avatars.githubusercontent.com/dvsalvaya" width=115><br><sub>Davi salvaya</sub>](https://github.com/dvsalvaya) | [<img loading="lazy" src="https://avatars.githubusercontent.com/Rodrigo-Avieira" width=115><br><sub>Rodrigo Vieira</sub>](https://github.com/Rodrigo-Avieira) | [<img loading="lazy" src="https://avatars.githubusercontent.com/carolinesvazz" width=115><br><sub>Caroline Vazz</sub>](https://github.com/carolinesvazz) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 
 ### Front-End :art:
 
@@ -162,4 +162,5 @@ Se você deseja contribuir para o projeto, siga os passos abaixo:
 - [Aplicação ao vivo](https://matheuspc.pythonanywhere.com/)
 - [Montar Readme.md](https://www.alura.com.br/artigos/escrever-bom-readme)
 - [Gerar icones](https://marwin1991.github.io/profile-technology-icons/)
+
 
